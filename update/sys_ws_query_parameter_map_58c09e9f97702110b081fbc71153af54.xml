@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map">
+    <sys_ws_query_parameter_map action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ws_query_parameter_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 07:45:28</sys_created_on>
+        <sys_id>58c09e9f97702110b081fbc71153af54</sys_id>
+        <sys_name>b02c4a9b97702110b081fbc71153affb</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_map_58c09e9f97702110b081fbc71153af54</sys_update_name>
+        <web_service_operation display_value="ni_getinfo">04601a9f97702110b081fbc71153af4e</web_service_operation>
+        <web_service_query_parameter display_value="ni_query">b02c4a9b97702110b081fbc71153affb</web_service_query_parameter>
+    </sys_ws_query_parameter_map>
+</record_update>
